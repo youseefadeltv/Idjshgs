@@ -1,0 +1,143 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | WANASAH
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446882&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ONE TV HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446881&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ONE TV FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446880&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ROTANA CLIP
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446879&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ROTANA MUSIC HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446878&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ROTANA MUSIC FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446877&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ROTANA M+ HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446876&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ROTANA M+ FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446875&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ART HEKAYAT 2 FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446874&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ART HEKAYAT 1 FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446873&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ART CINEMA FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446872&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ART AFLAM 2 FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446871&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ART AFLAM 1 FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446870&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ZEE ALWAN
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446869&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ZEE AFLAM
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446868&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | MBC BOLLYWOOD HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446867&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | MBC BOLLYWOOD FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446866&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | MBC 4 HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446865&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | MBC 4 FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446864&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | MBC 2 HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446863&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | MBC 2 FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446862&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | MBC VARIETY HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446861&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | MBC VARIETY FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446860&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | MBC MAX HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446859&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | MBC MAX FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446858&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | MBC ACTION HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446857&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | MBC ACTION FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446856&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | TCM HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446855&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | TCM FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446854&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | STAR WORLD HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446853&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | STAR WORLD FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446852&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | STAR MOVIES HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446851&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | STAR MOVIES FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446850&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | STAR ACTION HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446849&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | STAR ACTION FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446848&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ROTANA DRAMA HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446847&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ROTANA DRAMA FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446846&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ROTANA COMEDY HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446845&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ROTANA COMEDY FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446844&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ROTANA + HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446843&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ROTANA + FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446842&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ROTANA KHALEJIYA HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446841&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ROTANA KHALEJIYA FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446840&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ROTANA CLASSIC HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446839&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ROTANA CLASSIC FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446838&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ROTANA CINEMA + US HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446837&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ROTANA CINEMA + US FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446836&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ROTANA CINEMA MASR HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446835&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ROTANA CINEMA MASR FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446834&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ROTANA CINEMA KSA HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446833&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ROTANA CINEMA KSA FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446832&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ROTANA AFLAM + HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446831&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | ROTANA AFLAM + FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446830&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | LBC HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446829&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | LBC FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446828&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | MBC+ DRAMA HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446827&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | MBC+ DRAMA FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446826&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | MBC DRAMA HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446825&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | MBC DRAMA FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446824&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | MBC MASR 2 HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446823&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | MBC MASR 2 FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446822&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | MBC MASR HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446821&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | MBC MASR FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446820&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | MBC HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446819&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | MBC FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446818&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | STC TV SHABAB AL BOMB FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446817&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | STC TV THMANYAH FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446816&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | STC TV FAMILY HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446815&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | STC TV FAMILY FHD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446814&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | STC TV DRAMA HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=446813&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  STC TV (ARABIC)",AR | SPACETOON ARABIC
+https://live-uae.spacetoongo.com/ST_Live_UAE/hls/ST_Live_UAE_1080p.m3u8?pkg_media=video&pkg_alone=1&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1
