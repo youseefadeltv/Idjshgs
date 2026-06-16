@@ -1,0 +1,13 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="┃AR┃ THMANYAH",┃AR┃ THMANYAH 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1264554&extension=ts
+#EXTINF:-1 group-title="┃AR┃ THMANYAH",┃AR┃ THMANYAH 1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1264556&extension=ts
+#EXTINF:-1 group-title="┃AR┃ THMANYAH",┃AR┃ THMANYAH 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1264555&extension=ts
+#EXTINF:-1 group-title="┃AR┃ THMANYAH",┃AR┃ THMANYAH 2 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1264557&extension=ts
+#EXTINF:-1 group-title="┃AR┃ THMANYAH",┃AR┃ THMANYAH 3 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1303870&extension=ts
+#EXTINF:-1 group-title="┃AR┃ THMANYAH",┃AR┃ THMANYAH 3 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1303871&extension=ts
